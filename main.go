@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Version v0")
+	fmt.Println("Update after Version v0 (no tag)")
 }
