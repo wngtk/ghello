@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("subdirectory bin")
+	fmt.Println("v1 subdirectory bin")
 }
